@@ -3,47 +3,47 @@
       "id": 1,
       "name": "terror 1",
       "description": "Descripción del producto 1",
-      "image": "https://chat-gpt-mexico.mx/wp-content/uploads/2024/01/Creacion-de-imagenes-de-arte-generadas-por-IA.jpg",
-      "price": 100
+      "image": "https://picsum.photos/id/104/200/300",
+      "price": 1000
     },
     {
       "id": 2,
       "name": "terror 2",
       "description": "Descripción del producto 2",
-      "image": "https://chat-gpt-mexico.mx/wp-content/uploads/2024/01/Creacion-de-imagenes-de-arte-generadas-por-IA.jpg",
-      "price": 150
+      "image": "https://picsum.photos/id/105/200/300",
+      "price": 1530
     }
     ,
     {
       "id": 3,
       "name": "terror 3",
       "description": "Descripción del producto 2",
-      "image": "https://chat-gpt-mexico.mx/wp-content/uploads/2024/01/Creacion-de-imagenes-de-arte-generadas-por-IA.jpg",
-      "price": 150
+      "image": "https://picsum.photos/id/106/200/300",
+      "price": 340
     }
     ,
     {
       "id": 4,
       "name": "terror 4",
       "description": "Descripción del producto 2",
-      "image": "https://chat-gpt-mexico.mx/wp-content/uploads/2024/01/Creacion-de-imagenes-de-arte-generadas-por-IA.jpg",
-      "price": 150
+      "image": "https://picsum.photos/id/107/200/300",
+      "price": 500
     }
     ,
     {
       "id": 5,
       "name": "terror 5",
       "description": "Descripción del producto 2",
-      "image": "https://chat-gpt-mexico.mx/wp-content/uploads/2024/01/Creacion-de-imagenes-de-arte-generadas-por-IA.jpg",
-      "price": 150
+      "image": "https://picsum.photos/id/108/200/300",
+      "price": 530
     }
     ,
     {
       "id": 6,
       "name": "terror 6",
       "description": "Descripción del producto 2",
-      "image": "https://chat-gpt-mexico.mx/wp-content/uploads/2024/01/Creacion-de-imagenes-de-arte-generadas-por-IA.jpg",
-      "price": 150
+      "image": "https://picsum.photos/id/109/200/300",
+      "price": 700
     }
 
   ]

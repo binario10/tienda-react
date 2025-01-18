@@ -4,14 +4,14 @@
       "name": "comedia 1",
       "description": "Descripción del producto 1",
       "image": "https://picsum.photos/id/20/200/300",
-      "price": 100
+      "price": 1090
     },
     {
       "id": 2,
       "name": "comedia 2",
       "description": "Descripción del producto 2",
       "image": "https://picsum.photos/id/21/200/300",
-      "price": 150
+      "price": 700
     }
     ,
     {
@@ -19,7 +19,7 @@
       "name": "comedia 3",
       "description": "Descripción del producto 2",
       "image": "https://picsum.photos/id/22/200/300",
-      "price": 150
+      "price": 1500
     }
     ,
     {
@@ -27,7 +27,7 @@
       "name": "comedia 4",
       "description": "Descripción del producto 2",
       "image": "https://picsum.photos/id/23/200/300",
-      "price": 150
+      "price": 1150
     }
     ,
     {
@@ -35,7 +35,7 @@
       "name": "comedia 5",
       "description": "Descripción del producto 2",
       "image": "https://picsum.photos/id/24/200/300",
-      "price": 150
+      "price": 530
     }
     ,
     {
@@ -43,7 +43,7 @@
       "name": "comedia 6",
       "description": "Descripción del producto 2",
       "image": "https://picsum.photos/id/25/200/300",
-      "price": 150
+      "price": 300
     }
 
   ]
