@@ -3,14 +3,14 @@
       "id": 1,
       "name": "drama 1",
       "description": "Descripción del producto 1",
-      "image": "https://picsum.photos/id/54/200/300",
+      "image": "https://picsum.photos/id/54/100/150",
       "price": 1000
     },
     {
       "id": 2,
       "name": "drama 2",
       "description": "Descripción del producto 2",
-      "image": "https://picsum.photos/id/55/200/300",
+      "image": "https://picsum.photos/id/55/100/150",
       "price": 1500
     }
     ,
@@ -18,7 +18,7 @@
       "id": 3,
       "name": "drama 3",
       "description": "Descripción del producto 2",
-      "image": "https://picsum.photos/id/56/200/300",
+      "image": "https://picsum.photos/id/56/100/150",
       "price": 1200
     }
     ,
@@ -26,7 +26,7 @@
       "id": 4,
       "name": "drama 4",
       "description": "Descripción del producto 2",
-      "image": "https://picsum.photos/id/57/200/300",
+      "image": "https://picsum.photos/id/57/100/150",
       "price": 800
     }
     ,
@@ -34,7 +34,7 @@
       "id": 5,
       "name": "drama 5",
       "description": "Descripción del producto 2",
-     "image": "https://picsum.photos/id/58/200/300",
+     "image": "https://picsum.photos/id/58/100/150",
       "price": 1500
     }
     ,
@@ -42,7 +42,7 @@
       "id": 6,
       "name": "drama 6",
       "description": "Descripción del producto 2",
-     "image": "https://picsum.photos/id/59/200/300",
+     "image": "https://picsum.photos/id/59/100/150",
       "price": 500
     }
 

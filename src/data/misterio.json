@@ -3,14 +3,14 @@
       "id": 1,
       "name": "misterio 1",
       "description": "Descripción del producto 1",
-      "image": "https://picsum.photos/id/84/200/300",
+      "image": "https://picsum.photos/id/84/100/150",
       "price": 100
     },
     {
       "id": 2,
       "name": "misterio 2",
       "description": "Descripción del producto 2",
-      "image": "https://picsum.photos/id/85/200/300",
+      "image": "https://picsum.photos/id/85/100/150",
       "price": 700
     }
     ,
@@ -18,7 +18,7 @@
       "id": 3,
       "name": "misterio 3",
       "description": "Descripción del producto 2",
-     "image": "https://picsum.photos/id/86/200/300",
+     "image": "https://picsum.photos/id/86/100/150",
       "price": 350
     }
     ,
@@ -26,7 +26,7 @@
       "id": 4,
       "name": "misterio 4",
       "description": "Descripción del producto 2",
-      "image": "https://picsum.photos/id/87/200/300",
+      "image": "https://picsum.photos/id/87/100/150",
       "price": 650
     }
     ,
@@ -34,7 +34,7 @@
       "id": 5,
       "name": "misterio 5",
       "description": "Descripción del producto 2",
-     "image": "https://picsum.photos/id/88/200/300",
+     "image": "https://picsum.photos/id/88/100/150",
       "price": 1200
     }
     ,
@@ -42,7 +42,7 @@
       "id": 6,
       "name": "misterio 6",
       "description": "Descripción del producto 2",
-      "image": "https://picsum.photos/id/89/200/300",
+      "image": "https://picsum.photos/id/89/100/150",
       "price": 550
     }
 

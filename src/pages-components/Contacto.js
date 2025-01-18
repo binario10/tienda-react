@@ -1,10 +1,14 @@
 import React from "react";
+import Cart from "../components/Cart";
+import Footer from "../components/Footer";
 
-const Contacto = () => {
+const Contacto = ({ cart, setCart }) => {
   return (
-    <div>
-      <h1>Contacto</h1>
-      <p>Ponte en contacto con nosotros.</p>
+    <div className="app">
+      <div className="container">
+        <Cart cart={cart} />
+      </div>
+    <Footer />
     </div>
   );
 };

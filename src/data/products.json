@@ -1,58 +1,49 @@
 [
-    {
-      "id": 1,
-      "name": "Producto 1",
-      "description": "Descripción del producto 1",
-      "image": "https://chat-gpt-mexico.mx/wp-content/uploads/2024/01/Creacion-de-imagenes-de-arte-generadas-por-IA.jpg",
-      "price": 100
-    },
-    {
-      "id": 2,
-      "name": "Producto 2",
-      "description": "Descripción del producto 2",
-      "image": "https://chat-gpt-mexico.mx/wp-content/uploads/2024/01/Creacion-de-imagenes-de-arte-generadas-por-IA.jpg",
-      "price": 150
-    }
-    ,
-    {
-      "id": 3,
-      "name": "Producto 3",
-      "description": "Descripción del producto 2",
-      "image": "https://chat-gpt-mexico.mx/wp-content/uploads/2024/01/Creacion-de-imagenes-de-arte-generadas-por-IA.jpg",
-      "price": 150
-    }
-    ,
-    {
-      "id": 4,
-      "name": "Producto 4",
-      "description": "Descripción del producto 2",
-      "image": "https://chat-gpt-mexico.mx/wp-content/uploads/2024/01/Creacion-de-imagenes-de-arte-generadas-por-IA.jpg",
-      "price": 150
-    }
-    ,
-    {
-      "id": 5,
-      "name": "Producto 5",
-      "description": "Descripción del producto 2",
-      "image": "https://chat-gpt-mexico.mx/wp-content/uploads/2024/01/Creacion-de-imagenes-de-arte-generadas-por-IA.jpg",
-      "price": 150
-    }
-    ,
-    {
-      "id": 6,
-      "name": "Producto 6",
-      "description": "Descripción del producto 2",
-      "image": "https://chat-gpt-mexico.mx/wp-content/uploads/2024/01/Creacion-de-imagenes-de-arte-generadas-por-IA.jpg",
-      "price": 150
-    }
-    ,
-    {
-      "id": 7,
-      "name": "Producto 7",
-      "description": "Descripción del producto 2",
-      "image": "https://chat-gpt-mexico.mx/wp-content/uploads/2024/01/Creacion-de-imagenes-de-arte-generadas-por-IA.jpg",
-      "price": 150
-    }
+  {
+    "id": 1,
+    "name": "drama 1",
+    "description": "Descripción del producto 1",
+    "image": "https://picsum.photos/id/324/100/150",
+    "price": 1000
+  },
+  {
+    "id": 2,
+    "name": "drama 2",
+    "description": "Descripción del producto 2",
+    "image": "https://picsum.photos/id/550/100/150",
+    "price": 1500
+  }
+  ,
+  {
+    "id": 3,
+    "name": "drama 3",
+    "description": "Descripción del producto 2",
+    "image": "https://picsum.photos/id/596/100/150",
+    "price": 1200
+  }
+  ,
+  {
+    "id": 4,
+    "name": "drama 4",
+    "description": "Descripción del producto 2",
+    "image": "https://picsum.photos/id/570/100/150",
+    "price": 800
+  }
+  ,
+  {
+    "id": 5,
+    "name": "drama 5",
+    "description": "Descripción del producto 2",
+   "image": "https://picsum.photos/id/548/100/150",
+    "price": 1500
+  }
+  ,
+  {
+    "id": 6,
+    "name": "drama 6",
+    "description": "Descripción del producto 2",
+   "image": "https://picsum.photos/id/519/100/150",
+    "price": 500
+  }
 
-  ]
-  
+]

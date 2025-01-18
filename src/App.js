@@ -13,6 +13,8 @@ import Contacto from "./pages-components/Contacto";
 
 import { useState } from "react";
 
+
+
 const App = () => {
 
   const [cart, setCart] = useState([]);
@@ -27,7 +29,7 @@ const App = () => {
           <Route path="/comedias" element={<Comedias cart={cart} setCart={setCart} />} />
           <Route path="/misterio" element={<Misterio cart={cart} setCart={setCart} />} />
           <Route path="/terror" element={<Terror  cart={cart} setCart={setCart} />} />
-          <Route path="/contacto" element={<Contacto />} />
+          <Route path="/contacto" element={<Contacto cart={cart} setCart={setCart}/>} />
         </Routes>
       </div>
     </Router>

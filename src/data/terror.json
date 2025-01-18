@@ -3,14 +3,14 @@
       "id": 1,
       "name": "terror 1",
       "description": "Descripción del producto 1",
-      "image": "https://picsum.photos/id/104/200/300",
+      "image": "https://picsum.photos/id/104/100/150",
       "price": 1000
     },
     {
       "id": 2,
       "name": "terror 2",
       "description": "Descripción del producto 2",
-      "image": "https://picsum.photos/id/105/200/300",
+      "image": "https://picsum.photos/id/105/100/150",
       "price": 1530
     }
     ,
@@ -18,7 +18,7 @@
       "id": 3,
       "name": "terror 3",
       "description": "Descripción del producto 2",
-      "image": "https://picsum.photos/id/106/200/300",
+      "image": "https://picsum.photos/id/106/100/150",
       "price": 340
     }
     ,
@@ -26,7 +26,7 @@
       "id": 4,
       "name": "terror 4",
       "description": "Descripción del producto 2",
-      "image": "https://picsum.photos/id/107/200/300",
+      "image": "https://picsum.photos/id/107/100/150",
       "price": 500
     }
     ,
@@ -34,7 +34,7 @@
       "id": 5,
       "name": "terror 5",
       "description": "Descripción del producto 2",
-      "image": "https://picsum.photos/id/108/200/300",
+      "image": "https://picsum.photos/id/108/100/150",
       "price": 530
     }
     ,
@@ -42,7 +42,7 @@
       "id": 6,
       "name": "terror 6",
       "description": "Descripción del producto 2",
-      "image": "https://picsum.photos/id/109/200/300",
+      "image": "https://picsum.photos/id/109/100/150",
       "price": 700
     }
 

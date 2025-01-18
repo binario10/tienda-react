@@ -25,16 +25,11 @@ const Dramaticos = ({ cart, setCart }) => {
 
   return (
     <div className="app">
-    <Menu />
-    <div className="container">
      <Header />
      <SearchBar /> {/* Posiciona el buscador debajo del encabezado */}
      <ProductList products={products} addToCart={addToCart} />
-     <Cart cart={cart} />
-    
-   </div>
-   <Footer />
- </div>
+     <Footer />
+    </div>
   );
 };
 
