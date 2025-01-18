@@ -7,8 +7,8 @@ const Contacto = ({ cart, setCart }) => {
     <div className="app">
       <div className="container">
         <Cart cart={cart} />
+        <Footer />
       </div>
-    <Footer />
     </div>
   );
 };

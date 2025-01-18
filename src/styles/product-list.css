@@ -1,9 +1,5 @@
 /* Estilos generales para la lista de productos */
 .product-list {
-  width: 90%;
-  max-width: 1200px;
-  margin: 0 auto; 
-
   display: grid;
   grid-template-columns: repeat(1, 1fr); /* Por defecto, 1 columna */
   gap: 20px; /* Espaciado entre tarjetas */

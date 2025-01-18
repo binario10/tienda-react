@@ -17,12 +17,11 @@ import { useState } from "react";
 
 const App = () => {
 
-  const [cart, setCart] = useState([]);
+  const [cart, setCart] = useState([]);  //useState para agregar al carrito productos
 
   return (
     <Router>
       <Menu />
-      <div className="container">
         <Routes>
           <Route path="/" element={<Inicio cart={cart} setCart={setCart} />} />
           <Route path="/dramaticos" element={<Dramaticos  cart={cart} setCart={setCart} />} />
@@ -31,7 +30,6 @@ const App = () => {
           <Route path="/terror" element={<Terror  cart={cart} setCart={setCart} />} />
           <Route path="/contacto" element={<Contacto cart={cart} setCart={setCart}/>} />
         </Routes>
-      </div>
     </Router>
   );
 };

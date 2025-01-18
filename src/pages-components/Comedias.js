@@ -24,9 +24,12 @@ const Comedias = ({ cart, setCart }) => {
 
   return (
     <div className="app">
-     <Header />
-     <SearchBar /> {/* Posiciona el buscador debajo del encabezado */}
-     <ProductList products={products} addToCart={addToCart} />
+      <div className="container">
+        <Header />
+        <SearchBar /> {/* Posiciona el buscador debajo del encabezado */}
+        <ProductList products={products} addToCart={addToCart} />
+        <Footer/>
+      </div>
      </div>
   );
 };
