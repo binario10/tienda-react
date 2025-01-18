@@ -1,0 +1,48 @@
+/* Estilos para las tarjetas de producto */
+.product-card {
+  background-color: #fff;
+  padding: 15px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  text-align: center;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+/* Efecto de hover en la tarjeta */
+.product-card:hover {
+  transform: translateY(-5px); /* Mueve la tarjeta ligeramente hacia arriba */
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); /* Sombra al hacer hover */
+}
+
+.product-card img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 5px;
+}
+
+.product-card h4 {
+  margin-top: 10px;
+  font-size: 1.2em;
+  color: #333;
+}
+
+.product-card p {
+  color: #777;
+  font-size: 1em;
+}
+
+.product-card .price {
+  font-weight: bold;
+  color: #4CAF50; /* Precio en verde */
+  margin-top: 5px;
+}
+
+
+
+.product-card__button {
+  margin-top: 10px;
+  width: 100%;
+}

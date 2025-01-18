@@ -1,0 +1,28 @@
+/* Estilos generales para la lista de productos */
+.product-list {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr); /* Por defecto, 1 columna */
+  gap: 20px; /* Espaciado entre tarjetas */
+  padding: 20px;
+}
+
+/* Pantallas pequeñas (menores a 600px): 2 columnas */
+@media (min-width: 600px) {
+  .product-list {
+    grid-template-columns: repeat(2, 1fr); /* 2 columnas */
+  }
+}
+
+/* Pantallas medianas (de 768px a 999px): 3 columnas */
+@media (min-width: 768px) {
+  .product-list {
+    grid-template-columns: repeat(3, 1fr); /* 3 columnas */
+  }
+}
+
+/* Pantallas grandes (mayores a 1000px): 4 columnas */
+@media (min-width: 1000px) {
+  .product-list {
+    grid-template-columns: repeat(4, 1fr); /* 4 columnas */
+  }
+}

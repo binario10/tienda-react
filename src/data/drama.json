@@ -1,0 +1,50 @@
+[
+    {
+      "id": 1,
+      "name": "drama 1",
+      "description": "Descripción del producto 1",
+      "image": "https://chat-gpt-mexico.mx/wp-content/uploads/2024/01/Creacion-de-imagenes-de-arte-generadas-por-IA.jpg",
+      "price": 100
+    },
+    {
+      "id": 2,
+      "name": "drama 2",
+      "description": "Descripción del producto 2",
+      "image": "https://chat-gpt-mexico.mx/wp-content/uploads/2024/01/Creacion-de-imagenes-de-arte-generadas-por-IA.jpg",
+      "price": 150
+    }
+    ,
+    {
+      "id": 3,
+      "name": "drama 3",
+      "description": "Descripción del producto 2",
+      "image": "https://chat-gpt-mexico.mx/wp-content/uploads/2024/01/Creacion-de-imagenes-de-arte-generadas-por-IA.jpg",
+      "price": 150
+    }
+    ,
+    {
+      "id": 4,
+      "name": "drama 4",
+      "description": "Descripción del producto 2",
+      "image": "https://chat-gpt-mexico.mx/wp-content/uploads/2024/01/Creacion-de-imagenes-de-arte-generadas-por-IA.jpg",
+      "price": 150
+    }
+    ,
+    {
+      "id": 5,
+      "name": "drama 5",
+      "description": "Descripción del producto 2",
+      "image": "https://chat-gpt-mexico.mx/wp-content/uploads/2024/01/Creacion-de-imagenes-de-arte-generadas-por-IA.jpg",
+      "price": 150
+    }
+    ,
+    {
+      "id": 6,
+      "name": "drama 6",
+      "description": "Descripción del producto 2",
+      "image": "https://chat-gpt-mexico.mx/wp-content/uploads/2024/01/Creacion-de-imagenes-de-arte-generadas-por-IA.jpg",
+      "price": 150
+    }
+
+  ]
+  
