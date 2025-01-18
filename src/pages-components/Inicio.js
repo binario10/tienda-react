@@ -12,12 +12,12 @@ const Inicio = ({ cart, setCart }) => {
         <div className="inicio">
            
           <img
-            src="https://picsum.photos/2000/1000" // Reemplaza con la URL de tu imagen
+            src="https://picsum.photos/id/405/800/600" // Reemplaza con la URL de tu imagen
             alt="Portada"
             className="inicio__image"
           />
           <div className="inicio__overlay">
-            <h1 className="inicio__title">Bienvenido a Nuestra Tienda</h1>
+            <h1 className="inicio__title">Bienvenido a la Mejor tienda de libros online</h1>
           </div>
 
         </div>
