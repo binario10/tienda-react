@@ -1,49 +1,33 @@
 [
     {
       "id": 1,
-      "name": "misterio 1",
-      "description": "Descripción del producto 1",
+      "name": "El club de los lectores criminales'",
+      "description": "Cuando morir no importa, todo está permitido. Elena Blanco, inspectora de la Brigada de Análisis de Casos (BAC) se enfrenta a su peor enemigo, una poderosa organización integrada",
       "image": "https://picsum.photos/id/84/100/150",
       "price": 100
     },
     {
       "id": 2,
-      "name": "misterio 2",
-      "description": "Descripción del producto 2",
+      "name": "El décimo círculo",
+      "description": "Con la inspectora en busca y captura, acusada del asesinato de un policía, y Zárate desaparecido, Mariajo, Reyes, Orduño y Buendía hacen la guerra por su cuenta. ",
       "image": "https://picsum.photos/id/85/100/150",
       "price": 700
     }
     ,
     {
       "id": 3,
-      "name": "misterio 3",
-      "description": "Descripción del producto 2",
+      "name": "Los chicos de Biloxi",
+      "description": "Una historia acerca de lo transcendental y profundo que es el primer amor.",
      "image": "https://picsum.photos/id/186/100/150",
       "price": 350
     }
     ,
     {
       "id": 4,
-      "name": "misterio 4",
-      "description": "Descripción del producto 2",
+      "name": "La ley del padre",
+      "description": "La domina un mundo interior complejo, plagado de sentimientos e ideas que oculta, porque la avergüenzan y la alejan del modelo que se impone seguir.",
       "image": "https://picsum.photos/id/87/100/150",
       "price": 650
-    }
-    ,
-    {
-      "id": 5,
-      "name": "misterio 5",
-      "description": "Descripción del producto 2",
-     "image": "https://picsum.photos/id/88/100/150",
-      "price": 1200
-    }
-    ,
-    {
-      "id": 6,
-      "name": "misterio 6",
-      "description": "Descripción del producto 2",
-      "image": "https://picsum.photos/id/89/100/150",
-      "price": 550
     }
 
   ]

@@ -2,7 +2,6 @@
 import React, { useState, useEffect } from "react";
 
 import ProductList from "../components/ProductList";
-import Cart from "../components/Cart";
 import Header from "../components/Header";
 import Footer from "../components/Footer";
 import SearchBar from "../components/SearchBar"; 

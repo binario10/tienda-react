@@ -1,49 +1,33 @@
 [
     {
       "id": 1,
-      "name": "terror 1",
-      "description": "Descripción del producto 1",
+      "name": "Narraciones inverosímiles",
+      "description": "Una casa de campo y un estudiante que, aferrado a su racionalidad, se niega a creer en la leyenda negra que rodea el lugar. Pero llega un momento en que la evidencia resulta innegable:",
       "image": "https://picsum.photos/id/104/100/150",
       "price": 1000
     },
     {
       "id": 2,
-      "name": "terror 2",
-      "description": "Descripción del producto 2",
+      "name": "Drácula",
+      "description": "¿Qué hacen tres críos cuando no hay colegio, en los largos días de la Semana Santa? ¿Y si además la casa entera es para ellos solos y pueden vivir y jugar sin la presencia de los adultos?",
       "image": "https://picsum.photos/id/105/100/150",
       "price": 1530
     }
     ,
     {
       "id": 3,
-      "name": "terror 3",
-      "description": "Descripción del producto 2",
+      "name": "El ciclo de aventuras oníricas de Randolph Carter",
+      "description": "Uno de los títulos más representativos de la vasta producción del denominado «Maestro del terror cósmico», el estadounidense Howard Phillips Lovecraft. Nadie como él ha mezclado los relatos de terror",
       "image": "https://picsum.photos/id/106/100/150",
       "price": 340
     }
     ,
     {
       "id": 4,
-      "name": "terror 4",
-      "description": "Descripción del producto 2",
+      "name": "El rito",
+      "description": "Discípulo de Edgar Allan Poe, su continuador más conspicuo sería Stephen King. Con En las Montañas de la Locura, Lovecraft continúa ampliando",
       "image": "https://picsum.photos/id/107/100/150",
       "price": 500
-    }
-    ,
-    {
-      "id": 5,
-      "name": "terror 5",
-      "description": "Descripción del producto 2",
-      "image": "https://picsum.photos/id/108/100/150",
-      "price": 530
-    }
-    ,
-    {
-      "id": 6,
-      "name": "terror 6",
-      "description": "Descripción del producto 2",
-      "image": "https://picsum.photos/id/109/100/150",
-      "price": 700
     }
 
   ]

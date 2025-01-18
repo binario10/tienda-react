@@ -1,49 +1,33 @@
 [
     {
       "id": 1,
-      "name": "comedia 1",
-      "description": "Descripción del producto 1",
+      "name": "La taberna errante",
+      "description": "Empezamos con este exitazo editorial en el que Beatriz Serrano nos explica la historia de Marisa, una mujer en la treintena que trata de sobrellevar como puede las rutinas y pesares diarios en una agencia de publicidad. Aunque detesta su trabajo, no puede renunciar a él por motivos económicos.",
       "image": "https://picsum.photos/id/20/100/150",
       "price": 1090
     },
     {
       "id": 2,
-      "name": "comedia 2",
-      "description": "Descripción del producto 2",
+      "name": "Noticia bomba! ",
+      "description": "En Más vale Lola que mal acompañada, Lola se enfrenta a la vida de soltera después de su ruptura amorosa en Katanazo al amor romántico. Ahora, su nueva realidad es otra muy distinta: ser una misma y no sentirse juzgada por su forma de vivir la vida.",
       "image": "https://picsum.photos/id/21/100/150",
       "price": 700
     }
     ,
     {
       "id": 3,
-      "name": "comedia 3",
-      "description": "Descripción del producto 2",
+      "name": "El inimitable Jeeves",
+      "description": "Martín volvió a compartir con los lectores su experiencia íntima sobre cómo logró rehacerse y mantener la cordura cuando el verdadero desafío no es solo volver a estar de pie, sino evitar caer nuevamente.",
       "image": "https://picsum.photos/id/22/100/150",
       "price": 1500
     }
     ,
     {
       "id": 4,
-      "name": "comedia 4",
-      "description": "Descripción del producto 2",
+      "name": "Cuentos sin plumas",
+      "description": "El monólogo con el que Ángel Martín ha girado por Europa para reivindicar, en clave de humor, la importancia de la salud mental, ahora en una edición especial, en tapa dura, que incluye prólogo, dedicatoria y material inédito",
       "image": "https://picsum.photos/id/23/100/150",
       "price": 1150
-    }
-    ,
-    {
-      "id": 5,
-      "name": "comedia 5",
-      "description": "Descripción del producto 2",
-      "image": "https://picsum.photos/id/24/100/150",
-      "price": 530
-    }
-    ,
-    {
-      "id": 6,
-      "name": "comedia 6",
-      "description": "Descripción del producto 2",
-      "image": "https://picsum.photos/id/25/100/150",
-      "price": 300
     }
 
   ]

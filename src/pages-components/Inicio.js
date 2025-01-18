@@ -12,7 +12,7 @@ const Inicio = ({ cart, setCart }) => {
         <div className="inicio">
            
           <img
-            src="https://picsum.photos/id/405/800/600" // Reemplaza con la URL de tu imagen
+            src="https://picsum.photos/id/405/800/600" 
             alt="Portada"
             className="inicio__image"
           />

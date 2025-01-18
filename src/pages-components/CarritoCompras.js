@@ -2,7 +2,7 @@ import React from "react";
 import Cart from "../components/Cart";
 import Footer from "../components/Footer";
 
-const Contacto = ({ cart, setCart }) => {
+const CarritoCompras = ({ cart, setCart }) => {
   return (
     <div className="app">
       <div className="container">
@@ -13,4 +13,4 @@ const Contacto = ({ cart, setCart }) => {
   );
 };
 
-export default Contacto;
+export default CarritoCompras;
