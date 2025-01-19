@@ -1,13 +1,13 @@
 [
     {
-      "id": 1,
+      "id": 9,
       "name": "El club de los lectores criminales'",
       "description": "Cuando morir no importa, todo está permitido. Elena Blanco, inspectora de la Brigada de Análisis de Casos (BAC) se enfrenta a su peor enemigo, una poderosa organización integrada",
       "image": "https://picsum.photos/id/84/100/150",
       "price": 100
     },
     {
-      "id": 2,
+      "id": 10,
       "name": "El décimo círculo",
       "description": "Con la inspectora en busca y captura, acusada del asesinato de un policía, y Zárate desaparecido, Mariajo, Reyes, Orduño y Buendía hacen la guerra por su cuenta. ",
       "image": "https://picsum.photos/id/85/100/150",
@@ -15,7 +15,7 @@
     }
     ,
     {
-      "id": 3,
+      "id": 11,
       "name": "Los chicos de Biloxi",
       "description": "Una historia acerca de lo transcendental y profundo que es el primer amor.",
      "image": "https://picsum.photos/id/186/100/150",
@@ -23,7 +23,7 @@
     }
     ,
     {
-      "id": 4,
+      "id": 12,
       "name": "La ley del padre",
       "description": "La domina un mundo interior complejo, plagado de sentimientos e ideas que oculta, porque la avergüenzan y la alejan del modelo que se impone seguir.",
       "image": "https://picsum.photos/id/87/100/150",

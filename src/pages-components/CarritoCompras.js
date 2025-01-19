@@ -2,7 +2,7 @@ import React from "react";
 import Cart from "../components/Cart";
 import Footer from "../components/Footer";
 
-const CarritoCompras = ({ cart, setCart }) => {
+const CarritoCompras = ({ cart }) => {
   return (
     <div className="app">
       <div className="container">

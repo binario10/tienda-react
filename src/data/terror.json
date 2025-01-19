@@ -1,13 +1,13 @@
 [
     {
-      "id": 1,
+      "id": 13,
       "name": "Narraciones inverosímiles",
       "description": "Una casa de campo y un estudiante que, aferrado a su racionalidad, se niega a creer en la leyenda negra que rodea el lugar. Pero llega un momento en que la evidencia resulta innegable:",
       "image": "https://picsum.photos/id/104/100/150",
       "price": 1000
     },
     {
-      "id": 2,
+      "id": 14,
       "name": "Drácula",
       "description": "¿Qué hacen tres críos cuando no hay colegio, en los largos días de la Semana Santa? ¿Y si además la casa entera es para ellos solos y pueden vivir y jugar sin la presencia de los adultos?",
       "image": "https://picsum.photos/id/105/100/150",
@@ -15,7 +15,7 @@
     }
     ,
     {
-      "id": 3,
+      "id": 15,
       "name": "El ciclo de aventuras oníricas de Randolph Carter",
       "description": "Uno de los títulos más representativos de la vasta producción del denominado «Maestro del terror cósmico», el estadounidense Howard Phillips Lovecraft. Nadie como él ha mezclado los relatos de terror",
       "image": "https://picsum.photos/id/106/100/150",
@@ -23,7 +23,7 @@
     }
     ,
     {
-      "id": 4,
+      "id": 16,
       "name": "El rito",
       "description": "Discípulo de Edgar Allan Poe, su continuador más conspicuo sería Stephen King. Con En las Montañas de la Locura, Lovecraft continúa ampliando",
       "image": "https://picsum.photos/id/107/100/150",
