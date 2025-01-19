@@ -4,7 +4,7 @@ import React from "react";
 import "../styles/Inicio.css"
 import "../App.css";
 
-const Inicio = ({ cart, setCart }) => {
+const Inicio = () => {
 
   return (
     
