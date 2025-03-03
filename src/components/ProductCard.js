@@ -8,10 +8,10 @@ import "../styles/product-card.css";  // Importa el archivo CSS de la tarjeta de
 const ProductCard = ({ product, addToCart, successMessage }) => {
   return (
     <div className="product-card">
-      <img src={product.image} alt={product.name} />
-      <h3>{product.name}</h3>
-      <p>{product.description}</p>
-      <span>{`$${product.price}`}</span> 
+      <img src={product.portadaUrl} alt={product.titulo} />
+      <h3>{product.titulo}</h3>
+      <p>{product.descripcion}</p>
+      <span>{`$${product.precio.toFixed(2)}`}</span> 
       <Button
         label="Agregar al carrito"
         onClick={() => addToCart(product)}

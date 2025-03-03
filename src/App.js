@@ -12,6 +12,7 @@ import Terror from "./pages-components/Terror";
 
 import CarritoCompras from "./pages-components/CarritoCompras";
 import useAddToCart from "./components/useAddToCart";  //importo el hook custom para addCart
+import Libros from "./pages-components/Libros";
 
 
 
@@ -32,6 +33,7 @@ const App = () => {
           <Route path="/comedias" element={<Comedias cart={cart} addToCart={addToCart} successMessage={ successMessage}/>} />
           <Route path="/misterio" element={<Misterio cart={cart} addToCart={addToCart} successMessage={ successMessage} />} />
           <Route path="/terror" element={<Terror  cart={cart} addToCart={addToCart} successMessage={ successMessage} />} />
+          <Route path="/libros" element={<Libros cart={cart} addToCart={addToCart} successMessage={ successMessage}/>} />
           <Route path="/carrito" element={<CarritoCompras cart={cart} addToCart={addToCart} successMessage={ successMessage}/>} />
         </Routes>
     </Router>
